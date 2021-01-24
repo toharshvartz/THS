@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/5/2019/09/escaping-NXIVM_cult-desktop-2048x1152.jpg?w=1440);
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 80px;
+    color: whitesmoke;
+    font-family: 'Nehama', serif;
+}
+h2 {
+    color: whitesmoke;
+    font-family: 'Nehama', serif;
+    text-shadow: 3px 3px 3px #FF336E;
+}
+
+p {
+    color: whitesmoke;
+    font-family: 'Nehama', serif;
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 17px;
+}
+
+thead,
+tfoot {
+    background-color: #FF336E;
+    color: #fff;
+}
+
+tbody {
+    background-color: #FCB0C6;
+}
+
+caption {
+    padding: 10px;
+    caption-side: bottom;
+    font-family: 'Nehama', serif;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 2px 2px;
+    border: 2px solid rgb(200, 200, 200);
+    color: dimgrey;
+
+}
+
+th, tr {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 7px 7px;
+    font-family: 'Nehama', serif;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    color: dimgrey;
+    text-align: center;
+}
+
+td {
+    border: 1px solid rgb(141, 141, 141);
+    padding: 5px 10px;
+    font-family: 'Nehama', serif;
+    font-size: 17px;
+    color: dimgrey;
+    text-align: center;
+}
+
+caption{
+    color: whitesmoke;
+    font-family: 'Nehama', serif;
+    font-size: 20px;
+}
